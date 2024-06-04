@@ -1,1 +1,1 @@
-# Proxy-Config
+# Proxy Config
